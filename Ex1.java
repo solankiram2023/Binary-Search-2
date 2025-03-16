@@ -1,3 +1,7 @@
+// Time Complexity :O(logn)
+// Space Complexity :O(1)
+// Did this code successfully run on Leetcode :Yes
+
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int n = nums.length;
